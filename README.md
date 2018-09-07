@@ -1,0 +1,1 @@
+# StajBilgileri-C-OpenCV-weeeee
